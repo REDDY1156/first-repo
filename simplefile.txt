@@ -1,2 +1,3 @@
 i am adding first line and doing 1st commit
 Second line
+Third Commit from git bash
